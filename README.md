@@ -16,7 +16,7 @@ This project has two parts:
 ![Sample2](GIFS/sample2.gif)
 
 The full video can be watched here:
-https://drive.google.com/file/d/16Y92K3qg452Ihpr63-WFUbtPVGe2QDBe/view
+https://www.youtube.com/watch?v=Ia0tjqW7xKA
 
 ### The following is a table of allowed Gestures:
 
